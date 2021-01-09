@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\GUM\GUM\bin\Debug\GUM.exe.config
+C:\Users\dell\source\repos\GUM\GUM\bin\Debug\GUM.exe
+C:\Users\dell\source\repos\GUM\GUM\bin\Debug\GUM.pdb
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.Form1.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.Properties.Resources.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.exe
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.pdb
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.firstcontrol.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.fourthcontrol.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.fifthcontrol.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.secoddcontrol.resources
+C:\Users\dell\source\repos\GUM\GUM\obj\Debug\GUM.thirdcontrol.resources
